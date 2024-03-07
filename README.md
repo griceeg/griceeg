@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1>Hi there! I'm Gricelda <img src="https://i.pinimg.com/originals/91/b2/22/91b2224f758ccd8e4aee58dc0ca8c1d7.gif" width="35px"></h1>
 
+### About me
+
+- I’m currently learning front-end development
+<!--
 <!--
 **griceeg/griceeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
