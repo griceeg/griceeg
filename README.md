@@ -1,8 +1,12 @@
-<h1>Hi there! I'm Gricelda <img src="https://i.pinimg.com/originals/91/b2/22/91b2224f758ccd8e4aee58dc0ca8c1d7.gif" width="35px"></h1>
+<h1>Hola! siy Gricelda Sáez <img src="https://i.pinimg.com/originals/91/b2/22/91b2224f758ccd8e4aee58dc0ca8c1d7.gif" width="30px"></h1>
 
-### About me
+### Sobre mí
 
-- I’m currently learning front-end development
+Soy de Chile y actualmente me encuentro estudiando para desarrollarme en el área Front End. Recientemente terminé el bootcamp 'desarrollo de aplicaciones front end trainee' con una beca otorgada por Sence y Talento Digital.
+A pesar que no tengo experiencia en el área TI, busco oportunidades para desarrollarme en esta área ya que he encontrado una pasión en el frontend y me encanta aprender nuevas tecnologías.
+
+### Contáctame
+<a href="https://www.linkedin.com/in/gricelda-saez-p">LinkedIn</a>
 <!--
 <!--
 **griceeg/griceeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
