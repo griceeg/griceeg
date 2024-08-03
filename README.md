@@ -2,8 +2,8 @@
 
 ### Sobre mí
 
-Soy de Chile y actualmente me encuentro estudiando para desarrollarme en el área Front End. Recientemente terminé el bootcamp 'desarrollo de aplicaciones front end trainee' con una beca otorgada por Sence y Talento Digital.
-A pesar que no tengo experiencia en el área TI, busco oportunidades para desarrollarme en esta área ya que he encontrado una pasión en el frontend y me encanta aprender nuevas tecnologías.
+<p>Soy de Chile y actualmente me encuentro estudiando para desarrollarme en el área Front End. Recientemente terminé el bootcamp 'desarrollo de aplicaciones front end trainee' con una beca otorgada por Sence y Talento Digital.</p>
+<p>A pesar que no tengo experiencia en el área TI, busco oportunidades para desarrollarme en esta área ya que he encontrado una pasión en el frontend y me encanta aprender nuevas tecnologías.</p>
 
 ### Contáctame
 <a href="https://www.linkedin.com/in/gricelda-saez-p">LinkedIn</a>
