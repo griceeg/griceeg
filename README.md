@@ -1,4 +1,4 @@
-<h1>Hola! siy Gricelda Sáez <img src="https://i.pinimg.com/originals/91/b2/22/91b2224f758ccd8e4aee58dc0ca8c1d7.gif" width="30px"></h1>
+<h1>Hola! soy Gricelda Sáez <img src="https://i.pinimg.com/originals/91/b2/22/91b2224f758ccd8e4aee58dc0ca8c1d7.gif" width="30px"></h1>
 
 ### Sobre mí
 
